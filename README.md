@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samreen Fatima</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">A passionate App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samreen-ui&label=Profile%20views&color=0e75b6&style=flat" alt="samreen-ui" /> </p>
 
@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samreen-fatima-294441348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samreen-fatima-294441348" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samreen (leetcode id: 9pl7ybm3bi)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samreen (leetcode id: 9pl7ybm3bi)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
