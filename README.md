@@ -49,4 +49,4 @@ A conversational assistant for Keshav Memorial Institute of Technology, deployed
 ### Contact
 
 Email: [samreenf3112@gmail.com](mailto:samreenf3112@gmail.com)  
-LinkedIn: [linkedin.com/in/your-profile]((https://www.linkedin.com/in/samreen-fatima-294441348/))  
+LinkedIn: [linkedin.com](https://www.linkedin.com/in/samreen-fatima-294441348/)
