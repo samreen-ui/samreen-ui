@@ -1,8 +1,11 @@
 ## Samreen Fatima
 
-### Full-Stack Mobile Developer | AI/ML Practitioner | Cloud & LLM Integration Specialist
+### Full-Stack Mobile Developer | AI enthusiast 
 
-I am a results-driven software engineer with a strong focus on building intelligent, scalable, and user-centric applications. My expertise lies at the intersection of cross-platform mobile development, cloud infrastructure, and applied machine learning. I have delivered end-to-end solutions that integrate real-time systems, large language models, and satellite-based analytics to solve real-world problems.
+I am a B.Tech student with a strong foundation in full-stack mobile development, artificial intelligence, and cloud-based systems. My technical expertise spans Flutter, React Native, Firebase, Supabase, MongoDB, Firestore, and SQL databases. I have implemented and deployed deep learning models such as Inception V3 and VGG16, and machine learning algorithms including Decision Trees and Random Forests (for both classification and regression).
+
+I have built and deployed scalable solutions that integrate LLMs (Gemini API), Flask-based APIs, real-time satellite data from Google Earth Engine. My focus is on creating intelligent, real-time applications that are both impactful and production-ready.
+
 
 ---
 
