@@ -12,10 +12,10 @@ I am a results-driven software engineer with a strong focus on building intellig
 Flutter, React Native
 
 **Backend & Databases**  
-Flask, Firebase, Supabase, Firestore, MongoDB, SQL (PostgreSQL, MySQL)
+Flask, Firebase, Supabase, Firestore, MongoDB, SQL (MySQL)
 
 **Cloud Platforms**  
-AWS (EC2, S3, Lambda), Google Earth Engine, Firebase Hosting
+ Google Earth Engine, Firebase Hosting
 
 **AI, Machine Learning, and LLMs**  
 LLMs (Gemini API), RAG (FAISS + Sentence Transformers), Decision Trees, Random Forest (Classification & Regression), Inception V3, VGG16
@@ -24,7 +24,7 @@ LLMs (Gemini API), RAG (FAISS + Sentence Transformers), Decision Trees, Random F
 Vite, TypeScript
 
 **Tooling and Integration**  
-Selenium, REST APIs, JSON-based data pipelines, Flask-CORS, Git
+Selenium, REST APIs, JSON-based data pipelines, Flask-CORS
 
 ---
 
@@ -49,12 +49,12 @@ A conversational assistant for Keshav Memorial Institute of Technology, deployed
 ### Contact
 
 Email: [samreenf3112@gmail.com](mailto:samreenf3112@gmail.com)  
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/samreen-fatima-294441348/))  
 Portfolio or Website: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-<!-- Optional GitHub Stats (uncomment if needed)
-![Samreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreen-ui&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samreen-ui&layout=compact)
--->
+ Optional GitHub Stats (uncomment if needed)
+[Samreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreen-ui&show_icons=true&theme=default)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samreen-ui&layout=compact)
+
