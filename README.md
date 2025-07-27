@@ -50,11 +50,3 @@ A conversational assistant for Keshav Memorial Institute of Technology, deployed
 
 Email: [samreenf3112@gmail.com](mailto:samreenf3112@gmail.com)  
 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/samreen-fatima-294441348/))  
-Portfolio or Website: [yourwebsite.com](https://yourwebsite.com)
-
----
-
- Optional GitHub Stats (uncomment if needed)
-[Samreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreen-ui&show_icons=true&theme=default)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samreen-ui&layout=compact)
-
